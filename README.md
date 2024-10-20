@@ -26,41 +26,31 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-Submit the following tickets from the user endpoint: Mobile banking is down, Accounting is having difficulty after an Adobe update, and the CFO's laptop is running slowly.
-</p>
-<p>
-<img height="80%" width="80%" alt="Mobile banking ticket" src="https://i.imgur.com/KjJuG54.png">
-</p>
-<br />
-<p>
-<img height="80%" width="80%" alt="Accounting ticket" src="https://i.imgur.com/I5U4DXY.png">
-</p>
-<br />
-<p>
-<img height="80%" width="80%" alt="CFO laptop ticket" src="https://i.imgur.com/dxSuJn2.png">
-</p>
-<br />
+This tutorial demonstrates the creation of tickets as an end user .<br />
 
-<p>
-Log into osTicket to view the tickets.
+</p>
+</p>
 </p>
 <p>
-<img height="80%" width="80%" alt="Tickets from agent login" src="https://i.imgur.com/Dt3ziAi.png">
+Ken is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking. 
 </p>
-<br />
-
-<p>
-Modify the tickets to reflect the correct priority, assign departments, assign an agent, and assign an SLA.
-</p>
-<p>
-<img height="80%" width="80%" alt="Ticket prior to adjustments from agent" src="https://i.imgur.com/QpMblKG.png">
+<img src="https://i.imgur.com/lRduIb2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
-<img height="80%" width="80%" alt="Ticket after adjustments from agent" src="https://i.imgur.com/XaAIT6O.png">
+</p>
+<p>
+Agents will be able to see live tickets in the agent panel. Queue managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs. 
 </p>
 <br />
-
 <p>
-Document changes to the ticket and select "Resolve" when the ticket has been completed. 
+<img src="https://i.imgur.com/ISfE0G7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+In this example we are setting the priority level of the ticket. The priority has been set to Emergency since we are dealing with an issue that can effect an entire portion of the business. We have changed the SLA plan and assigned the ticket to a top level technician. In some ticketing system customers can set their own SLA plans. 
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/uJtuLaK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
